@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sinoalice-grid-importer-v1-2",
+  "private_key_id": "cc476719aea1b50f43d995a38dd31d5e3c47311f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClrXRNk08qfMlf\nnniYt13Xz7tqKJ4DcMEomxrG4RPzAno7AflTCOa9MhWFTJtSTB4szQXXgiVBg5cW\n3xdjgaX9e6FHd+u6QdyOKpDvpFqudtjSy8uOdbYaCJ0sSCNzQ9Af00idQUHGQl3K\np6iQ+F47l/x+yPlau7M0x8xs+L5b2zzvUseAledJCh5edQq28A4+oNqnXN3MlGS3\nkXaTM6snDpD+Y1u/etvMjTHZYMf6GXBMPTmaNJvnB6SHwrXI5BzbjE7oN4ViyOJU\nPmdizT3x9cpvVZBnnyBTxGrIX0EIW3Yme4eHjby3g3u3TOe1GqYHJCM26SVf9h81\nbcVZ/tuTAgMBAAECggEAA8GxF2k1rFL0BfUD6wKNYC1XpIqTOqS93HvX2ZaU6zet\nKdVbn+RdxwBxuHoKM42CSaXEciSDT776GAyq7RiteNfqykIP2ENSCu8wJh7l53rO\nY8k3Ll3A6Uo0tiJUm3J4L6CMzvQB18r9cXDnw5G+IT/K+9z2unXzFElLe1UQi+id\nWzCykHRKbA7CkvfaKzw4lprmkQxZB4bgIVjupsbciPVVgTCrxOnMNiWUq21Ofe35\nkqPaw+fA5EyGm3F0Jcra8W5M9Do0j/Aqt0RHvVJjuQ0zgb+GeGuce9f9+elMOO8K\nuILeW+TmdwwRyjfRRd03e1b7twTEbqYAQ63s8S8w8QKBgQDUAo6u9uxerOs6gSZL\nPCs6O7htxj52ubH9IhwXOkL3XKu9m/IEurKl/FhEW4okV1aMovyvxMZki32EPBQp\nxvqe7A3YcVxvfCvRxSy90Vr/tevXP0MG6ibPakND70PleKaWApw8Exk6fBaq07Fj\nj55um23hkz1xL8HRaAdBgDlKzwKBgQDIDdVdl/xrQ14tpRKZvIK0g9t5ovFA2bSj\nfzlrzSMgApHy/iYQHPmhqq/KhLvHQYSck/0b9sMuvB0Xr+9kg6JjWx+lO2TE6DXu\ni8vj3ZHC+3Lw9PoJU8P2C4hrFd9iEWI+R256LqOmazmtsg9fVaNDYlQ5BnkmVa9+\nyItGVGiD/QKBgCA/A1S5WdpMkrqjSh/HVwvUaYjIzldghyHpPjyKMAVPow+D2Ju/\nicyVRReglLJSVmetoqFZXJOOY9jpCmgQS65AWRrCozyRtliBlPyKCz05flWO2bMD\nikOh9fkvOzR71Vqbqwe4H+41UX1KFYD/JynLmjrlGkNM8D3ZhMEBr7UhAoGARVHt\nzhmdILneR2i8skLM86oBAfwBJtyJKGIsTnttoWjik9WW8Nxpb6iKc11dB+VfAzaQ\nbQErjuUmG5AeHrEyMsVfiMy01To1few5AUNEf9DLek0Y2uSIsZg7dAfHON8XMMdl\ns7a3hDIBcXuSshElmnLXBk+E6VClmAP7pqoW8S0CgYEAvZzOaTLn+VFv12CKr6VJ\nkYiHMT6pYtQ09RatHe8Zm9VnfCT8Q3JzkExBh5qeX+OZI8+wDxC97ck+rPXCUGEm\nVCa7T4RFGN54s2Skp8WhuPsxJsKkMalstN7CJDxkOGSOdiPvwBBjMq2RYMnXxw7G\n2+TuDJIMucl+cYwkwI1KtGQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sinoalice-grid-importer@sinoalice-grid-importer-v1-2.iam.gserviceaccount.com",
+  "client_id": "104386653902434552559",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sinoalice-grid-importer%40sinoalice-grid-importer-v1-2.iam.gserviceaccount.com"
+}
