@@ -5,10 +5,7 @@ import weapons
 import pygetwindow as gw
 import gspread
 import os
-#import pytesseract
 import re
-
-pytesseract.pytesseract.tesseract_cmd = r"Tesseract-OCR\tesseract.exe"
 
 def getIndex(pos):
     gridwin = gw.getWindowsWithTitle('MyGrid')[0]
